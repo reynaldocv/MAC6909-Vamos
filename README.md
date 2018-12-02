@@ -9,7 +9,7 @@ Projeto da disciplina "Empreendedorismo Digital".
   
   - Modificar o arquivo "code/includes/config.php" para ter conexão com o Banco de Dados. 
   
-  - O resutado final foi hospedado https://webvamos.000webhostapp.com/index.php. 
+  - O resutado final foi hospedado https://webvamos.000webhostapp.com/index.php. Você pode criar seu proprio usurio ou acessar com o usuario: "1@1.1" e senha "1"
   
   A seguir, temos algumas capturas de tela. 
   
@@ -31,7 +31,7 @@ Projeto da disciplina "Empreendedorismo Digital".
   <img src="img/vamos-hobbies.png">       
 </p>
 
-## Tela de Categorias dos Eventos
+## Tela de Eventos por Categorias
 
 
 <p align="center">
