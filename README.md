@@ -15,15 +15,25 @@ Projeto da disciplina "Empreendedorismo Digital".
   
 
 
-
-
+## Tela de Inicio
 
 <p align="center">
   <img src="img/vamos-usuarionuevo.png">       
 </p>
+
+## Tela de Criação de um novo usuário
+
 <p align="center">
   <img src="img/vamos.usuarionuevo.png">       
 </p>
+
+<p align="center">
+  <img src="img/vamos-hobbies.png">       
+</p>
+
+## Tela de Categorias dos Eventos
+
+
 <p align="center">
   <img src="img/vamos-index.png">       
 </p>
