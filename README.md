@@ -38,19 +38,20 @@ Projeto da disciplina "Empreendedorismo Digital".
   <img src="img/vamos-index.png">       
 </p>
 
+## Tela de Lista de Eventos como Postagens
 
-<p align="center">
-  <img src="img/vamos-usuarionuevo.png">       
-</p>
 <p align="center">
   <img src="img/vamos-maps.png">       
 </p>
-<p align="center">
-  <img src="img/vamos-hobbies.png">       
-</p>
+
+## Tela de Lista de Eventos num Map
+
 <p align="center">
   <img src="img/vamos-eventos.png">       
 </p>
+
+## Tela de Chat (para estabelecer um encontro)
+
 <p align="center">
   <img src="img/vamos-chat.png">       
 </p>
