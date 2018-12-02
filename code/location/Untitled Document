@@ -1,0 +1,26 @@
+<?php
+echo "jaja";
+
+include("geoip.inc"); 
+include("geoipregionvars.php"); 
+$giCity = geoip_open("GeoLiteCity.dat", GEOIP_STANDARD); 
+$ip =$_SERVER['REMOTE_ADDR']; 
+$record = geoip_record_by_addr($giCity, $ip); 
+echo "Getting Country and City detail by IP Address 
+
+"; echo "IP: " . $ip . "
+
+"; echo "Country Code: " . $record->country_code . "
+" . "Country Code3: " . $record->country_code . "
+" . "Country Name: " . $record->country_name . "
+" . "Region Code: " . $record->region . "
+" . "Region Name: " . $GEOIP_REGION_NAME[$record->country_code][$record->region] . "
+" . "City: " . $record->city . "
+" . "Postal Code: " . $record->postal_code . "
+" . "Latitude: " . $record->latitude . "< `enter code here`br />" . "Longitude: " . $record->longitude . "
+" . "Metro Code: " . $record->metro_code . "
+" . "Area Code: " . $record->area_code . "
+" ; 
+
+
+?>
